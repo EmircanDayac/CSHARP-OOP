@@ -1,0 +1,7 @@
+C:\Users\emirc\RiderProjects\ConsoleOOPapp\ConsoleOOPapp\bin\Debug\ConsoleOOPapp.exe
+C:\Users\emirc\RiderProjects\ConsoleOOPapp\ConsoleOOPapp\bin\Debug\ConsoleOOPapp.pdb
+C:\Users\emirc\RiderProjects\ConsoleOOPapp\ConsoleOOPapp\obj\Debug\ConsoleOOPapp.csproj.AssemblyReference.cache
+C:\Users\emirc\RiderProjects\ConsoleOOPapp\ConsoleOOPapp\obj\Debug\ConsoleOOPapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirc\RiderProjects\ConsoleOOPapp\ConsoleOOPapp\obj\Debug\ConsoleOOPapp.csproj.CoreCompileInputs.cache
+C:\Users\emirc\RiderProjects\ConsoleOOPapp\ConsoleOOPapp\obj\Debug\ConsoleOOPapp.exe
+C:\Users\emirc\RiderProjects\ConsoleOOPapp\ConsoleOOPapp\obj\Debug\ConsoleOOPapp.pdb
